@@ -1,5 +1,5 @@
 # Pusher Flutter Client
-
+## migrated to null-safety
 [![pub package](https://img.shields.io/pub/v/flutter_pusher.svg)](https://pub.dartlang.org/packages/flutter_pusher)
 
 An unofficial Flutter plugin that wraps [pusher-websocket-java](https://github.com/pusher/pusher-websocket-java) on Android and [pusher-websocket-swift](https://github.com/pusher/pusher-websocket-swift) on iOS.
